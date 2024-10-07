@@ -23,5 +23,4 @@ function calculator(saldoVitorias) {
     console.log(`O Herói tem um saldo de ${saldoVitorias} e está no nível de ${nivel}`)
     return (saldoVitorias)
 }
-let saldoFinal = calculator(result);  // Chamando a função
-
+let saldoFinal = calculator(result)
